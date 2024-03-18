@@ -1,1 +1,1 @@
-FROM zangxue/xrui:v13
+FROM zangxue/xrui:v14
